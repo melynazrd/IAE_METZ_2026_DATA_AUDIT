@@ -1,1 +1,1 @@
-Ceci est un fichier pour présentzr les différents jeux de données
+Ceci est un fichier pour présenter les différents jeux de données
