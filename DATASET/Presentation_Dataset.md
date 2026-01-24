@@ -5,3 +5,5 @@ DATA SOURCES :
 FMI,
 INSEE, STATECT, 
 BLOOMBERG, YFinance (package python réputé)
+https://www.kaggle.com/datasets
+
